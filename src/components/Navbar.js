@@ -18,6 +18,10 @@ const navLinks = [
     href: "/women",
   },
   {
+    name:"Kids",
+    href:"/kids"
+  },
+  {
     name: "Accessories",
     href: "/accessories",
   },
