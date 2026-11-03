@@ -11,9 +11,6 @@ const Category = require("../src/models/Category").default;
 
 const MONGODB_URI = process.env.MONGODB_URI;
 
-/* =========================================
-   LOAD LOCAL PRODUCT IMAGES
-========================================= */
 
 function loadLocalImages(folderName) {
   const folderPath = path.join(
