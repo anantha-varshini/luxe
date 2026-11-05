@@ -132,8 +132,10 @@ function LoginForm() {
 
 export default function LoginPage() {
   return (
-    <Suspense fallback={<div className="min-h-screen" />}>
-      <LoginForm />
-    </Suspense>
+    <main>
+      <Suspense fallback={<div className="min-h-screen" />}>
+        <LoginForm />
+      </Suspense>
+    </main>
   );
 }
