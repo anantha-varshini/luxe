@@ -81,6 +81,7 @@ export default async function HomePage() {
         </div>
       </section>
 
+      
       {/* CATEGORIES */}
       {categories.length > 0 && (
         <section className="mx-auto max-w-7xl px-6 py-20 lg:px-8">
@@ -104,32 +105,42 @@ export default async function HomePage() {
           </div>
 
           <div className="mt-8 grid grid-cols-2 gap-4 lg:grid-cols-4">
-            {categories.map((category) => (
-              <Link
-                key={category._id.toString()}
-                href={`/shop?category=${encodeURIComponent(
-                  category.name
-                )}`}
-                className="group overflow-hidden rounded-2xl bg-gray-100"
-              >
-                <div className="relative">
-                  <img
-                    src={
-                      category.image ||
-                      "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=700"
-                    }
-                    alt={category.name}
-                    className="aspect-[4/5] w-full object-cover transition duration-500 group-hover:scale-105"
-                  />
+            {categories.map((category) => {
+              const categoryImages = {
+                Men: "/images/men/men-01.jpg",
+                Women: "/images/women/women-01.jpg",
+                Kids: "/images/kids/kids-01.jpg",
+                Accessories: "/images/accessories/accessories-01.jpg",
+              };
 
-                  <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent p-5 pt-16">
-                    <h3 className="text-xl font-semibold text-white">
-                      {category.name}
-                    </h3>
+              const image =
+                categoryImages[category.name] ||
+                "/images/men/men-01.jpg";
+
+              return (
+                <Link
+                  key={category._id.toString()}
+                  href={`/shop?category=${encodeURIComponent(
+                    category.name
+                  )}`}
+                  className="group overflow-hidden rounded-2xl bg-gray-100"
+                >
+                  <div className="relative">
+                    <img
+                      src={image}
+                      alt={category.name}
+                      className="aspect-[4/5] w-full object-cover transition duration-500 group-hover:scale-105"
+                    />
+
+                    <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent p-5 pt-16">
+                      <h3 className="text-xl font-semibold text-white">
+                        {category.name}
+                      </h3>
+                    </div>
                   </div>
-                </div>
-              </Link>
-            ))}
+                </Link>
+              );
+            })}
           </div>
         </section>
       )}

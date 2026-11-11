@@ -1,0 +1,642 @@
+[
+  {
+    "_id": "6ae1946343ebeefd679088dd",
+    "image": "/images/men/men-01.jpg",
+    "category": "Men",
+    "name": "Relaxed Short-Sleeve Shirt",
+    "slug": "relaxed-short-sleeve-shirt",
+    "description": "A clean, light-toned short-sleeve shirt styled with a relaxed silhouette. An easy choice for warm days and smart-casual outfits."
+  },
+  {
+    "_id": "6ae1946343ebeefd679088de",
+    "image": "/images/men/men-02.jpg",
+    "category": "Men",
+    "name": "Tailored Two-Piece Suit",
+    "slug": "tailored-two-piece-suit",
+    "description": "A polished tailored suit with a structured jacket and matching trousers. A sharp option for formal occasions, meetings and special events."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add8d",
+    "image": "/images/men/men-03.jpg",
+    "category": "Men",
+    "name": "Burgundy Button-Down Shirt",
+    "slug": "burgundy-button-down-shirt",
+    "description": "A rich burgundy button-down shirt with a neat collar and long sleeves. Pair it with tailored trousers or denim for an effortless smart-casual look."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add8e",
+    "image": "/images/men/men-04.jpg",
+    "category": "Men",
+    "name": "Slim-Fit Grey Casual Shirt",
+    "slug": "slim-fit-grey-casual-shirt",
+    "description": "A versatile grey long-sleeve shirt with a streamlined fit and classic button-front styling. A refined everyday option that works well with chinos or jeans."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add8f",
+    "image": "/images/men/men-05.jpg",
+    "category": "Men",
+    "name": "Classic Blue Crew-Neck T-Shirt",
+    "slug": "classic-blue-crew-neck-t-shirt",
+    "description": "A simple blue crew-neck T-shirt with short sleeves and an easy everyday shape. A versatile staple for relaxed outfits and weekend wear."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add90",
+    "image": "/images/men/men-06.jpg",
+    "category": "Men",
+    "name": "Striped Knit Polo Shirt",
+    "slug": "striped-knit-polo-shirt",
+    "description": "A short-sleeve polo featuring bold vertical stripes, a collared neckline and a relaxed casual feel. Style it with denim for an easy off-duty look."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add91",
+    "image": "/images/men/men-07.jpg",
+    "category": "Men",
+    "name": "Colour-Block Long-Sleeve Tee",
+    "slug": "colour-block-long-sleeve-tee",
+    "description": "A sporty long-sleeve top with contrasting colour-block panels and a comfortable crew neckline. Ideal for casual days and laid-back styling."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add92",
+    "image": "/images/men/men-08.jpg",
+    "category": "Men",
+    "name": "Vertical-Stripe Casual Shirt",
+    "slug": "vertical-stripe-casual-shirt",
+    "description": "A light short-sleeve button-up shirt with vertical stripe detailing and a relaxed appearance. A fresh choice for daytime outings and warm-weather dressing."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add93",
+    "image": "/images/men/men-09.jpg",
+    "category": "Men",
+    "name": "Graphic Print Hoodie",
+    "slug": "graphic-print-hoodie",
+    "description": "A relaxed hoodie featuring a bold monochrome graphic across the front. Its casual silhouette makes it an easy layer for everyday streetwear."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add94",
+    "image": "/images/men/men-10.jpg",
+    "category": "Men",
+    "name": "Burgundy Graphic Hoodie",
+    "slug": "burgundy-graphic-hoodie",
+    "description": "A deep burgundy hooded sweatshirt with a distinctive front graphic. A statement casual layer for cool days and relaxed outfits."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add95",
+    "image": "/images/men/men-11.jpg",
+    "category": "Men",
+    "name": "Minimal Logo Hoodie",
+    "slug": "minimal-logo-hoodie",
+    "description": "A light-coloured pullover hoodie with understated front detailing and a comfortable relaxed shape. An easy layer for everyday wear."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add96",
+    "image": "/images/men/men-12.jpg",
+    "category": "Men",
+    "name": "Textured Quarter-Zip Sweater",
+    "slug": "textured-quarter-zip-sweater",
+    "description": "A dark textured sweater with a practical quarter-zip neckline. Layer it over a tee for a neat, comfortable look on cooler days."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add97",
+    "image": "/images/men/men-13.jpg",
+    "category": "Men",
+    "name": "Floral Print Short-Sleeve Shirt",
+    "slug": "floral-print-short-sleeve-shirt",
+    "description": "A short-sleeve button-up shirt covered in an all-over floral pattern. Its expressive print brings personality to casual and holiday outfits."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add98",
+    "image": "/images/men/men-14.jpg",
+    "category": "Men",
+    "name": "Patterned Casual Jacket",
+    "slug": "patterned-casual-jacket",
+    "description": "A lightweight-looking casual outer layer with an understated all-over pattern and a neat front opening. Wear it over simple basics for added interest."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add99",
+    "image": "/images/men/men-15.jpg",
+    "category": "Men",
+    "name": "Blue Floral Button-Down Shirt",
+    "slug": "blue-floral-button-down-shirt",
+    "description": "A blue short-sleeve shirt with a prominent floral print and classic button-front styling. A standout option for relaxed gatherings and weekend plans."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add9a",
+    "image": "/images/men/men-16.jpg",
+    "category": "Men",
+    "name": "Ornamental Print Black Shirt",
+    "slug": "ornamental-print-black-shirt",
+    "description": "A black long-sleeve shirt decorated with an intricate light-coloured ornamental print. A distinctive piece for evening looks and statement styling."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add9b",
+    "image": "/images/men/men-17.jpg",
+    "category": "Men",
+    "name": "Green Stripe Casual Shirt",
+    "slug": "green-stripe-casual-shirt",
+    "description": "A relaxed button-up shirt with contrasting green and light vertical stripes. Its easy silhouette suits casual outings and laid-back occasions."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add9c",
+    "image": "/images/men/men-18.jpg",
+    "category": "Men",
+    "name": "Black Patterned Casual Shirt",
+    "slug": "black-patterned-casual-shirt",
+    "description": "A dark long-sleeve shirt featuring an all-over subtle pattern. A versatile choice when you want a casual outfit with a little extra detail."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add9d",
+    "image": "/images/men/men-19.jpg",
+    "category": "Men",
+    "name": "Embroidered Formal Shirt",
+    "slug": "embroidered-formal-shirt",
+    "description": "A dark button-front shirt with decorative embroidery near the lower front. A distinctive option for celebrations and dressier occasions."
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add9e",
+    "image": "/images/men/men-20.jpg",
+    "category": "Men",
+    "name": "White Embroidered Casual Shirt",
+    "slug": "white-embroidered-casual-shirt",
+    "description": "A light short-sleeve button-up shirt with delicate decorative detailing across the front. Pair it with neutral trousers for a fresh, polished outfit."
+  },
+  {
+    "_id": "6ae1946343ebeefd679088e0",
+    "image": "/images/women/women-01.jpg",
+    "category": "Women",
+    "name": "Charcoal Button-Front Shirt Dress",
+    "slug": "charcoal-button-front-shirt-dress",
+    "description": "A charcoal-toned button-front dress with a collared neckline and a defined waist. Its clean, tailored look works for office days and smart casual occasions."
+  },
+  {
+    "_id": "6ae1946343ebeefd679088e1",
+    "image": "/images/women/women-02.jpg",
+    "category": "Women",
+    "name": "Navy Tailored Suit Set",
+    "slug": "navy-tailored-suit-set",
+    "description": "A coordinated navy blazer and trouser set with a polished, structured appearance. A versatile choice for professional settings and formal events."
+  },
+  {
+    "_id": "6ae1946343ebeefd679088e2",
+    "image": "/images/women/women-03.jpg",
+    "category": "Women",
+    "name": "Beige Relaxed Blazer",
+    "slug": "beige-relaxed-blazer",
+    "description": "A soft beige blazer styled with a relaxed tailored shape and matching neutral separates. An understated layer for workwear and elevated everyday outfits."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5add9f",
+    "image": "/images/women/women-04.jpg",
+    "category": "Women",
+    "name": "Classic White Button-Down Shirt",
+    "slug": "classic-white-button-down-shirt",
+    "description": "A crisp white long-sleeve shirt with a classic collar and button-front finish. A wardrobe essential that pairs easily with trousers, skirts or denim."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda0",
+    "image": "/images/women/women-05.jpg",
+    "category": "Women",
+    "name": "Mint Green Kurta Set",
+    "slug": "mint-green-kurta-set",
+    "description": "A coordinated mint-green ethnic outfit with a long kurta and matching bottoms. The fresh colour and graceful silhouette suit festive and everyday occasions."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda1",
+    "image": "/images/women/women-06.jpg",
+    "category": "Women",
+    "name": "Purple Embellished Ethnic Set",
+    "slug": "purple-embellished-ethnic-set",
+    "description": "A rich purple traditional outfit with ornate detailing and a flowing dupatta. A graceful choice for celebrations and special gatherings."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda2",
+    "image": "/images/women/women-07.jpg",
+    "category": "Women",
+    "name": "Deep Green Embroidered Kurta",
+    "slug": "deep-green-embroidered-kurta",
+    "description": "A deep green kurta-style outfit with decorative embroidery on the front. Its elegant silhouette is suited to festive days and traditional occasions."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda3",
+    "image": "/images/women/women-08.jpg",
+    "category": "Women",
+    "name": "Mustard Yellow Straight Kurta",
+    "slug": "mustard-yellow-straight-kurta",
+    "description": "A mustard-yellow kurta with a simple, graceful shape and three-quarter sleeves. An easy ethnic-wear option for daytime outings and casual celebrations."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda4",
+    "image": "/images/women/women-09.jpg",
+    "category": "Women",
+    "name": "Grey Graphic Crew-Neck T-Shirt",
+    "slug": "grey-graphic-crew-neck-t-shirt",
+    "description": "A relaxed grey crew-neck T-shirt with a bold front graphic and short sleeves. Style it with jeans for an effortless casual look."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda5",
+    "image": "/images/women/women-10.jpg",
+    "category": "Women",
+    "name": "Casual Graphic T-Shirt and Shorts Set",
+    "slug": "casual-graphic-t-shirt-and-shorts-set",
+    "description": "A relaxed graphic tee paired with casual shorts for an easy warm-weather outfit. A comfortable-looking choice for weekends and holidays."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda6",
+    "image": "/images/women/women-11.jpg",
+    "category": "Women",
+    "name": "Black Floral Graphic T-Shirt",
+    "slug": "black-floral-graphic-t-shirt",
+    "description": "A black short-sleeve T-shirt accented with a floral front graphic. A simple everyday staple with a subtle statement detail."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda7",
+    "image": "/images/women/women-12.jpg",
+    "category": "Women",
+    "name": "Pink Statement Graphic T-Shirt",
+    "slug": "pink-statement-graphic-t-shirt",
+    "description": "A pink oversized-style T-shirt featuring a bold contrasting front graphic. Pair it with denim for a relaxed, contemporary outfit."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda8",
+    "image": "/images/women/women-13.jpg",
+    "category": "Women",
+    "name": "Floral Printed Ethnic Co-ord Set",
+    "slug": "floral-printed-ethnic-co-ord-set",
+    "description": "A coordinated ethnic outfit with a light base, colourful floral print and matching pieces. A graceful option for daytime events and festive gatherings."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda9",
+    "image": "/images/women/women-14.jpg",
+    "category": "Women",
+    "name": "Light Blue Tiered Dress",
+    "slug": "light-blue-tiered-dress",
+    "description": "A light blue dress with a voluminous tiered silhouette and delicate detailing. Its playful shape makes it a lovely choice for outings and special occasions."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5addaa",
+    "image": "/images/women/women-15.jpg",
+    "category": "Women",
+    "name": "Printed Kurta and Trouser Set",
+    "slug": "printed-kurta-and-trouser-set",
+    "description": "A coordinated traditional outfit with a printed kurta and matching wide-leg bottoms. An elegant option for celebrations and occasion wear."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5addab",
+    "image": "/images/women/women-16.jpg",
+    "category": "Women",
+    "name": "Teal Traditional Kurta Set",
+    "slug": "teal-traditional-kurta-set",
+    "description": "A rich teal ethnic set with a long kurta and coordinated bottoms. Its classic styling makes it suitable for festive occasions and everyday traditional wear."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5addac",
+    "image": "/images/women/women-17.jpg",
+    "category": "Women",
+    "name": "Beige Belted Trench Coat",
+    "slug": "beige-belted-trench-coat",
+    "description": "A beige longline coat with a lapel collar, front buttons and a waist belt. A timeless outer layer for polished cool-weather outfits."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5addad",
+    "image": "/images/women/women-18.jpg",
+    "category": "Women",
+    "name": "Olive Double-Breasted Coat",
+    "slug": "olive-double-breasted-coat",
+    "description": "An olive-toned long coat with a structured collar and button-front design. A sophisticated layer for cooler days and tailored looks."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5addae",
+    "image": "/images/women/women-19.jpg",
+    "category": "Women",
+    "name": "Burgundy Longline Coat",
+    "slug": "burgundy-longline-coat",
+    "description": "A deep burgundy long coat with a clean, structured silhouette. Style it over dresses or separates for an elegant cold-weather outfit."
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5addaf",
+    "image": "/images/women/women-20.jpg",
+    "category": "Women",
+    "name": "Grey Tailored Blazer and Trousers",
+    "slug": "grey-tailored-blazer-and-trousers",
+    "description": "A coordinated grey blazer and trouser look with a neat, professional finish. A versatile set for workwear, meetings and formal occasions."
+  },
+  {
+    "_id": "6ae1946343ebeefd679088e3",
+    "image": "/images/kids/kids-01.jpg",
+    "category": "Kids",
+    "name": "Graphic Tee and Denim Jeans Set",
+    "slug": "graphic-tee-and-denim-jeans-set",
+    "description": "A casual outfit pairing a dark graphic T-shirt with blue denim jeans. An easy everyday look for playtime and outings."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb0",
+    "image": "/images/kids/kids-02.jpg",
+    "category": "Kids",
+    "name": "Cream Printed Traditional Set",
+    "slug": "cream-printed-traditional-set",
+    "description": "A light cream traditional outfit with subtle all-over print and coordinated pieces. A charming choice for family gatherings and festive occasions."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb1",
+    "image": "/images/kids/kids-03.jpg",
+    "category": "Kids",
+    "name": "Denim Jacket and Tulle Dress Set",
+    "slug": "denim-jacket-and-tulle-dress-set",
+    "description": "A playful outfit combining a blue denim jacket with a soft pink dress. A sweet layered look for parties and special outings."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb2",
+    "image": "/images/kids/kids-04.jpg",
+    "category": "Kids",
+    "name": "Green Waistcoat Formal Set",
+    "slug": "green-waistcoat-formal-set",
+    "description": "A smart children's outfit featuring a green waistcoat layered over a white shirt with matching formal bottoms. Ideal for celebrations and family events."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb3",
+    "image": "/images/kids/kids-05.jpg",
+    "category": "Kids",
+    "name": "Light Blue Sleeveless Jumpsuit",
+    "slug": "light-blue-sleeveless-jumpsuit",
+    "description": "A light blue sleeveless one-piece with a simple, comfortable-looking silhouette. A lovely choice for warm days and casual outings."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb4",
+    "image": "/images/kids/kids-06.jpg",
+    "category": "Kids",
+    "name": "White and Pink Embroidered Outfit",
+    "slug": "white-and-pink-embroidered-outfit",
+    "description": "A light-coloured traditional outfit with pink floral detailing and coordinated pieces. A delicate option for celebrations and family occasions."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb5",
+    "image": "/images/kids/kids-07.jpg",
+    "category": "Kids",
+    "name": "Blue Denim Pinafore Dress",
+    "slug": "blue-denim-pinafore-dress",
+    "description": "A sleeveless blue denim dress with a playful everyday shape. Pair it with a simple top for an easy casual outfit."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb6",
+    "image": "/images/kids/kids-08.jpg",
+    "category": "Kids",
+    "name": "Kids Denim Jacket",
+    "slug": "kids-denim-jacket",
+    "description": "A classic blue denim jacket with a practical front-button design. An easy layering piece for everyday outfits and cooler weather."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb7",
+    "image": "/images/kids/kids-09.jpg",
+    "category": "Kids",
+    "name": "Maroon Sleeveless Jumpsuit",
+    "slug": "maroon-sleeveless-jumpsuit",
+    "description": "A rich maroon sleeveless one-piece with a neat, dressy silhouette. A comfortable-looking outfit for parties and special occasions."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb8",
+    "image": "/images/kids/kids-10.jpg",
+    "category": "Kids",
+    "name": "White Top and Shorts Set",
+    "slug": "white-top-and-shorts-set",
+    "description": "A light two-piece outfit featuring a short-sleeve top and matching shorts. A fresh, easy option for warm-weather play and outings."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb9",
+    "image": "/images/kids/kids-11.jpg",
+    "category": "Kids",
+    "name": "Bright Pink Traditional Dress",
+    "slug": "bright-pink-traditional-dress",
+    "description": "A vibrant pink traditional-style dress with a graceful full-length silhouette. A standout choice for celebrations and festive moments."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addba",
+    "image": "/images/kids/kids-12.jpg",
+    "category": "Kids",
+    "name": "Casual Jacket and Denim Outfit",
+    "slug": "casual-jacket-and-denim-outfit",
+    "description": "A layered casual look featuring a patterned jacket and blue denim trousers. A relaxed outfit for everyday adventures and outings."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addbb",
+    "image": "/images/kids/kids-13.jpg",
+    "category": "Kids",
+    "name": "Green Graphic T-Shirt and Denim Shorts",
+    "slug": "green-graphic-t-shirt-and-denim-shorts",
+    "description": "A bright green graphic tee paired with denim shorts for a playful everyday outfit. Great for casual days and active play."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addbc",
+    "image": "/images/kids/kids-14.jpg",
+    "category": "Kids",
+    "name": "Printed Shirt and Beige Trousers Set",
+    "slug": "printed-shirt-and-beige-trousers-set",
+    "description": "A short-sleeve printed shirt paired with beige trousers for a neat smart-casual look. Suitable for family outings and celebrations."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addbd",
+    "image": "/images/kids/kids-15.jpg",
+    "category": "Kids",
+    "name": "Printed Shirt and Black Trousers Set",
+    "slug": "printed-shirt-and-black-trousers-set",
+    "description": "A light short-sleeve shirt with a small all-over print, styled with black trousers. A smart outfit for parties and special occasions."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addbe",
+    "image": "/images/kids/kids-16.jpg",
+    "category": "Kids",
+    "name": "Floral Sleeveless Summer Dress",
+    "slug": "floral-sleeveless-summer-dress",
+    "description": "A sleeveless light-coloured dress decorated with a cheerful floral pattern. Its playful shape is perfect for sunny days and outings."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addbf",
+    "image": "/images/kids/kids-17.jpg",
+    "category": "Kids",
+    "name": "Yellow Party Frock",
+    "slug": "yellow-party-frock",
+    "description": "A bright yellow occasion dress with a full, layered skirt and a festive silhouette. A lovely pick for parties and celebrations."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addc0",
+    "image": "/images/kids/kids-18.jpg",
+    "category": "Kids",
+    "name": "Khaki Shirt Dress",
+    "slug": "khaki-shirt-dress",
+    "description": "A khaki short-sleeve shirt dress with a collared neckline, button front and waist detail. A stylish everyday option for outings."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addc1",
+    "image": "/images/kids/kids-19.jpg",
+    "category": "Kids",
+    "name": "Striped Sleeveless Summer Dress",
+    "slug": "striped-sleeveless-summer-dress",
+    "description": "A colourful striped sleeveless dress with a light, playful silhouette. A cheerful choice for warm days and casual occasions."
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addc2",
+    "image": "/images/kids/kids-20.jpg",
+    "category": "Kids",
+    "name": "White Occasion Gown",
+    "slug": "white-occasion-gown",
+    "description": "A white sleeveless occasion gown with a full flowing skirt and delicate decorative details. Designed for a special-day look."
+  },
+  {
+    "_id": "6ae1946343ebeefd679088e4",
+    "image": "/images/accessories/accessories-01.jpg",
+    "category": "Accessories",
+    "name": "Beige Flap-Front Shoulder Bag",
+    "slug": "beige-flap-front-shoulder-bag",
+    "description": "A compact beige handbag with a structured flap front, top handle and decorative scarf detail. An elegant accessory for everyday and occasion styling."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addc3",
+    "image": "/images/accessories/accessories-02.jpg",
+    "category": "Accessories",
+    "name": "Black Structured Top-Handle Bag",
+    "slug": "black-structured-top-handle-bag",
+    "description": "A structured black handbag with rounded top handles and contrasting trim. A polished accessory that complements both workwear and casual outfits."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addc4",
+    "image": "/images/accessories/accessories-03.jpg",
+    "category": "Accessories",
+    "name": "Brown Structured Tote Bag",
+    "slug": "brown-structured-tote-bag",
+    "description": "A roomy brown tote with sturdy handles and a clean, structured shape. A practical-looking choice for carrying everyday essentials."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addc5",
+    "image": "/images/accessories/accessories-04.jpg",
+    "category": "Accessories",
+    "name": "White Floral Canvas Tote",
+    "slug": "white-floral-canvas-tote",
+    "description": "A light canvas tote decorated with a delicate floral design and comfortable shoulder straps. An easy accessory for shopping and everyday use."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addc6",
+    "image": "/images/accessories/accessories-05.jpg",
+    "category": "Accessories",
+    "name": "Classic Wallet Gift Set",
+    "slug": "classic-wallet-gift-set",
+    "description": "A refined wallet presented in a coordinated gift box. A practical accessory set for keeping cards and small essentials organised."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addc7",
+    "image": "/images/accessories/accessories-06.jpg",
+    "category": "Accessories",
+    "name": "Brown Leather-Style Wallet",
+    "slug": "brown-leather-style-wallet",
+    "description": "A compact brown wallet displayed in a presentation box. Its classic look makes it a useful everyday accessory or gift option."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addc8",
+    "image": "/images/accessories/accessories-07.jpg",
+    "category": "Accessories",
+    "name": "Black Minimalist Wristwatch",
+    "slug": "black-minimalist-wristwatch",
+    "description": "A sleek black wristwatch with a dark dial and understated strap. A versatile timepiece for everyday and smart-casual styling."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addc9",
+    "image": "/images/accessories/accessories-08.jpg",
+    "category": "Accessories",
+    "name": "Silver Chronograph-Style Watch",
+    "slug": "silver-chronograph-style-watch",
+    "description": "A silver-tone wristwatch with a detailed multi-register dial and polished metal bracelet. A statement accessory for dressed-up looks."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addca",
+    "image": "/images/accessories/accessories-09.jpg",
+    "category": "Accessories",
+    "name": "White Dial Classic Watch",
+    "slug": "white-dial-classic-watch",
+    "description": "A refined wristwatch with a light dial and slim, elegant strap. Its clean appearance pairs easily with everyday and occasion outfits."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addcb",
+    "image": "/images/accessories/accessories-10.jpg",
+    "category": "Accessories",
+    "name": "Rose-Gold Bracelet Watch",
+    "slug": "rose-gold-bracelet-watch",
+    "description": "A rose-gold tone wristwatch with a polished bracelet and elegant dial. A warm metallic accent for both casual and dressier styling."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addcc",
+    "image": "/images/accessories/accessories-11.jpg",
+    "category": "Accessories",
+    "name": "Black Everyday Sling Bag",
+    "slug": "black-everyday-sling-bag",
+    "description": "A compact black sling bag with an adjustable strap and zippered storage. A convenient hands-free accessory for daily essentials."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addcd",
+    "image": "/images/accessories/accessories-12.jpg",
+    "category": "Accessories",
+    "name": "Brown Travel Duffel Bag",
+    "slug": "brown-travel-duffel-bag",
+    "description": "A roomy brown travel bag with sturdy handles and a practical zip closure. A smart companion for short trips and weekend getaways."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addce",
+    "image": "/images/accessories/accessories-13.jpg",
+    "category": "Accessories",
+    "name": "Beige Check Pattern Shoulder Tote",
+    "slug": "beige-check-pattern-shoulder-tote",
+    "description": "A relaxed shoulder tote with a beige check pattern and a spacious shape. An easy everyday bag for carrying your essentials."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addcf",
+    "image": "/images/accessories/accessories-14.jpg",
+    "category": "Accessories",
+    "name": "Grey Low-Top Sneakers",
+    "slug": "grey-low-top-sneakers",
+    "description": "A pair of grey low-top lace-up sneakers with a clean, sporty profile. An easy footwear choice for casual everyday outfits."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addd0",
+    "image": "/images/accessories/accessories-15.jpg",
+    "category": "Accessories",
+    "name": "Brown Formal Lace-Up Shoes",
+    "slug": "brown-formal-lace-up-shoes",
+    "description": "Classic brown lace-up shoes with a polished finish and streamlined shape. A versatile option for office wear and formal occasions."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addd1",
+    "image": "/images/accessories/accessories-16.jpg",
+    "category": "Accessories",
+    "name": "White and Lavender Sneakers",
+    "slug": "white-and-lavender-sneakers",
+    "description": "Light-coloured lace-up sneakers with soft lavender accents and a sporty sole. A fresh casual option for everyday styling."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addd2",
+    "image": "/images/accessories/accessories-17.jpg",
+    "category": "Accessories",
+    "name": "Black Lace-Up Ankle Boots",
+    "slug": "black-lace-up-ankle-boots",
+    "description": "Black lace-up ankle boots with a sturdy sole and bold profile. A statement footwear choice for casual and cold-weather outfits."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addd3",
+    "image": "/images/accessories/accessories-18.jpg",
+    "category": "Accessories",
+    "name": "Dark Brown Leather Belt",
+    "slug": "dark-brown-leather-belt",
+    "description": "A dark brown belt with a classic buckle and understated finish. A versatile accessory for smart-casual and formal outfits."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addd4",
+    "image": "/images/accessories/accessories-19.jpg",
+    "category": "Accessories",
+    "name": "Classic Brown Buckle Belt",
+    "slug": "classic-brown-buckle-belt",
+    "description": "A warm brown belt with a traditional metal buckle and clean strap design. An easy finishing touch for everyday and tailored looks."
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addd5",
+    "image": "/images/accessories/accessories-20.jpg",
+    "category": "Accessories",
+    "name": "Black Classic Buckle Belt",
+    "slug": "black-classic-buckle-belt",
+    "description": "A black belt with a simple metal buckle and timeless design. A practical wardrobe accessory for formal and casual styling."
+  }
+]

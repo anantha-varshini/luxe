@@ -1,0 +1,4920 @@
+[
+  {
+    "_id": "6ae1946343ebeefd679088dd",
+    "name": "Casual shirt",
+    "slug": "Casual shirt",
+    "description": "A relaxed everyday t-shirt crafted for comfort and effortless style.",
+    "price": 899,
+    "compareAtPrice": 1199,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "Urban Edit",
+    "images": [
+      "/images/men/men-01.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Beige"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [],
+    "tags": [
+      "tshirt",
+      "casual",
+      "oversized"
+    ],
+    "featured": true,
+    "isNew": true,
+    "rating": 4.5,
+    "reviewCount": 124,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-28T06:21:23.584Z",
+    "updatedAt": "2026-10-29T06:13:06.674Z"
+  },
+  {
+    "_id": "6ae1946343ebeefd679088de",
+    "name": "Formal Blazer",
+    "slug": "Formal Blazer",
+    "description": "Lightweight linen shirt with a relaxed silhouette for warm days.",
+    "price": 1599,
+    "compareAtPrice": 1999,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "Urban Edit",
+    "images": [
+      "/images/men/men-02.jpg"
+    ],
+    "colors": [
+      "White",
+      "Blue",
+      "Beige"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [],
+    "tags": [
+      "shirt",
+      "linen",
+      "summer"
+    ],
+    "featured": true,
+    "isNew": true,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-28T06:21:23.585Z",
+    "updatedAt": "2026-10-29T06:13:06.740Z"
+  },
+  {
+    "_id": "6ae1946343ebeefd679088df",
+    "name": "Daily wear Formal",
+    "slug": "Daily wear Formal",
+    "description": "Soft everyday hoodie with a clean minimal design.",
+    "price": 1899,
+    "compareAtPrice": 2499,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Unisex",
+    "brand": "Core Studio",
+    "images": [
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=900",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=900"
+    ],
+    "colors": [
+      "Black",
+      "Green",
+      "Beige"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [],
+    "tags": [
+      "hoodie",
+      "casual",
+      "streetwear"
+    ],
+    "featured": true,
+    "isNew": false,
+    "rating": 4.6,
+    "reviewCount": 211,
+    "active": true,
+    "__v": 0,
+    "updatedAt": "2026-10-28T06:21:23.585Z"
+  },
+  {
+    "_id": "6ae1946343ebeefd679088e0",
+    "name": "Formals",
+    "slug": "Formals",
+    "description": "Relaxed wide-leg denim designed for a contemporary silhouette.",
+    "price": 2199,
+    "compareAtPrice": 2799,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "Studio Line",
+    "images": [
+      "/images/women/women-01.jpg"
+    ],
+    "colors": [
+      "Blue",
+      "Black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [],
+    "tags": [
+      "jeans",
+      "denim",
+      "wide-leg"
+    ],
+    "featured": true,
+    "isNew": true,
+    "rating": 4.8,
+    "reviewCount": 156,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-28T06:21:23.586Z",
+    "updatedAt": "2026-10-29T06:13:07.912Z"
+  },
+  {
+    "_id": "6ae1946343ebeefd679088e1",
+    "name": "Essential Knit Top",
+    "slug": "essential-knit-top",
+    "description": "A versatile knit top that works from weekday to weekend.",
+    "price": 1299,
+    "compareAtPrice": 1699,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "Studio Line",
+    "images": [
+      "/images/women/women-02.jpg"
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Pink"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "variants": [],
+    "tags": [
+      "top",
+      "knit",
+      "minimal"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 4.4,
+    "reviewCount": 67,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-28T06:21:23.586Z",
+    "updatedAt": "2026-10-29T06:13:08.012Z"
+  },
+  {
+    "_id": "6ae1946343ebeefd679088e2",
+    "name": "Everyday Midi Dress",
+    "slug": "everyday-midi-dress",
+    "description": "An effortless midi dress with a clean everyday silhouette.",
+    "price": 2399,
+    "compareAtPrice": 2999,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "Studio Line",
+    "images": [
+      "/images/women/women-03.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Red",
+      "Beige"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [],
+    "tags": [
+      "dress",
+      "midi",
+      "casual"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 4.7,
+    "reviewCount": 98,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-28T06:21:23.586Z",
+    "updatedAt": "2026-10-29T06:13:08.131Z"
+  },
+  {
+    "_id": "6ae1946343ebeefd679088e3",
+    "name": "Kids Graphic Tee",
+    "slug": "kids-graphic-tee",
+    "description": "Soft cotton graphic t-shirt designed for everyday play.",
+    "price": 699,
+    "compareAtPrice": 899,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "Little Edit",
+    "images": [
+      "/images/kids/kids-01.jpg"
+    ],
+    "colors": [
+      "White",
+      "Blue",
+      "Red"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "variants": [],
+    "tags": [
+      "kids",
+      "tshirt",
+      "graphic"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 4.5,
+    "reviewCount": 43,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-28T06:21:23.586Z",
+    "updatedAt": "2026-10-29T06:13:09.273Z"
+  },
+  {
+    "_id": "6ae1946343ebeefd679088e4",
+    "name": "Canvas Everyday Tote",
+    "slug": "canvas-everyday-tote",
+    "description": "A spacious canvas tote for everyday essentials.",
+    "price": 799,
+    "compareAtPrice": 999,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "Core Studio",
+    "images": [
+      "/images/accessories/accessories-01.jpg"
+    ],
+    "colors": [
+      "Black",
+      "Beige",
+      "Brown"
+    ],
+    "sizes": [
+      "M"
+    ],
+    "variants": [],
+    "tags": [
+      "bag",
+      "tote",
+      "accessory"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 4.6,
+    "reviewCount": 71,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-28T06:21:23.586Z",
+    "updatedAt": "2026-10-29T06:13:10.486Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add8d",
+    "name": "Essential Crew Neck Tee",
+    "slug": "men-essential-crew-neck-tee",
+    "description": "Essential Crew Neck Tee from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1073,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-03.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-03-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-03-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-03-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-03-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": true,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.851Z",
+    "updatedAt": "2026-10-29T06:13:06.797Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add8e",
+    "name": "Classic Oxford Shirt",
+    "slug": "men-classic-oxford-shirt",
+    "description": "Classic Oxford Shirt from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1210,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-04.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-04-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-04-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-04-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-04-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": true,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.855Z",
+    "updatedAt": "2026-10-29T06:13:06.853Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add8f",
+    "name": "Casual Denim Jacket",
+    "slug": "men-casual-denim-jacket",
+    "description": "Casual Denim Jacket from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1347,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-05.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-05-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-05-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-05-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-05-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.856Z",
+    "updatedAt": "2026-10-29T06:13:06.907Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add90",
+    "name": "Slim Fit Chinos",
+    "slug": "men-slim-fit-chinos",
+    "description": "Slim Fit Chinos from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1484,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-06.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-06-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-06-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-06-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-06-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.856Z",
+    "updatedAt": "2026-10-29T06:13:06.962Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add91",
+    "name": "Everyday Polo Shirt",
+    "slug": "men-everyday-polo-shirt",
+    "description": "Everyday Polo Shirt from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1621,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-07.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-07-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-07-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-07-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-07-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.856Z",
+    "updatedAt": "2026-10-29T06:13:07.017Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add92",
+    "name": "Premium Hoodie",
+    "slug": "men-premium-hoodie",
+    "description": "Premium Hoodie from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1758,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-08.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-08-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-08-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-08-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-08-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.856Z",
+    "updatedAt": "2026-10-29T06:13:07.072Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add93",
+    "name": "Straight Fit Jeans",
+    "slug": "men-straight-fit-jeans",
+    "description": "Straight Fit Jeans from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1895,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-09.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-09-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-09-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-09-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-09-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.857Z",
+    "updatedAt": "2026-10-29T06:13:07.127Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add94",
+    "name": "Lightweight Bomber Jacket",
+    "slug": "men-lightweight-bomber-jacket",
+    "description": "Lightweight Bomber Jacket from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2032,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-10.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-10-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-10-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-10-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-10-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.857Z",
+    "updatedAt": "2026-10-29T06:13:07.183Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add95",
+    "name": "Textured Knit Sweater",
+    "slug": "men-textured-knit-sweater",
+    "description": "Textured Knit Sweater from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2169,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-11.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-11-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-11-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-11-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-11-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.857Z",
+    "updatedAt": "2026-10-29T06:13:07.237Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add96",
+    "name": "Casual Cargo Trousers",
+    "slug": "men-casual-cargo-trousers",
+    "description": "Casual Cargo Trousers from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2306,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-12.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-12-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-12-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-12-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-12-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.857Z",
+    "updatedAt": "2026-10-29T06:13:07.290Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add97",
+    "name": "Minimalist Sweatshirt",
+    "slug": "men-minimalist-sweatshirt",
+    "description": "Minimalist Sweatshirt from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2443,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-13.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-13-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-13-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-13-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-13-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.857Z",
+    "updatedAt": "2026-10-29T06:13:07.345Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add98",
+    "name": "Linen Blend Trousers",
+    "slug": "men-linen-blend-trousers",
+    "description": "Linen Blend Trousers from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 880,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-14.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-14-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-14-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-14-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-14-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.857Z",
+    "updatedAt": "2026-10-29T06:13:07.400Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add99",
+    "name": "Classic Checked Shirt",
+    "slug": "men-classic-checked-shirt",
+    "description": "Classic Checked Shirt from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1017,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-15.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-15-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-15-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-15-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-15-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.858Z",
+    "updatedAt": "2026-10-29T06:13:07.454Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add9a",
+    "name": "Relaxed Fit Shorts",
+    "slug": "men-relaxed-fit-shorts",
+    "description": "Relaxed Fit Shorts from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1154,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-16.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-16-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-16-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-16-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-16-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.858Z",
+    "updatedAt": "2026-10-29T06:13:07.507Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add9b",
+    "name": "Zip-Up Track Jacket",
+    "slug": "men-zip-up-track-jacket",
+    "description": "Zip-Up Track Jacket from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1291,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-17.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-17-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-17-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-17-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-17-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.858Z",
+    "updatedAt": "2026-10-29T06:13:07.561Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add9c",
+    "name": "Essential Tank Top",
+    "slug": "men-essential-tank-top",
+    "description": "Essential Tank Top from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1428,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-18.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-18-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-18-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-18-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-18-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.858Z",
+    "updatedAt": "2026-10-29T06:13:07.616Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add9d",
+    "name": "Tailored Casual Blazer",
+    "slug": "men-tailored-casual-blazer",
+    "description": "Tailored Casual Blazer from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1565,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-19.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-19-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-19-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-19-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-19-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.858Z",
+    "updatedAt": "2026-10-29T06:13:07.672Z"
+  },
+  {
+    "_id": "6ae2e359267d23fa1e5add9e",
+    "name": "Everyday Joggers",
+    "slug": "men-everyday-joggers",
+    "description": "Everyday Joggers from the LUXE Men collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1702,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088d9",
+    "categoryName": "Men",
+    "gender": "Men",
+    "brand": "LUXE",
+    "images": [
+      "/images/men/men-20.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-20-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-20-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-20-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-MEN-20-XL"
+      }
+    ],
+    "tags": [
+      "men",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:33.858Z",
+    "updatedAt": "2026-10-29T06:13:07.726Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5add9f",
+    "name": "Classic White Blouse",
+    "slug": "women-classic-white-blouse",
+    "description": "Classic White Blouse from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1210,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-04.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-04-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-04-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-04-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-04-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": true,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.988Z",
+    "updatedAt": "2026-10-29T06:13:08.194Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda0",
+    "name": "Relaxed Linen Shirt",
+    "slug": "women-relaxed-linen-shirt",
+    "description": "Relaxed Linen Shirt from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1347,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-05.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-05-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-05-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-05-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-05-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.989Z",
+    "updatedAt": "2026-10-29T06:13:08.249Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda1",
+    "name": "High Rise Straight Jeans",
+    "slug": "women-high-rise-straight-jeans",
+    "description": "High Rise Straight Jeans from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1484,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-06.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-06-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-06-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-06-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-06-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.989Z",
+    "updatedAt": "2026-10-29T06:13:08.305Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda2",
+    "name": "Ribbed Tank Top",
+    "slug": "women-ribbed-tank-top",
+    "description": "Ribbed Tank Top from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1621,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-07.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-07-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-07-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-07-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-07-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.989Z",
+    "updatedAt": "2026-10-29T06:13:08.361Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda3",
+    "name": "Tailored Wide Leg Trousers",
+    "slug": "women-tailored-wide-leg-trousers",
+    "description": "Tailored Wide Leg Trousers from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1758,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-08.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-08-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-08-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-08-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-08-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.989Z",
+    "updatedAt": "2026-10-29T06:13:08.416Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda4",
+    "name": "Floral Summer Dress",
+    "slug": "women-floral-summer-dress",
+    "description": "Floral Summer Dress from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1895,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-09.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-09-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-09-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-09-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-09-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.990Z",
+    "updatedAt": "2026-10-29T06:13:08.471Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda5",
+    "name": "Cropped Denim Jacket",
+    "slug": "women-cropped-denim-jacket",
+    "description": "Cropped Denim Jacket from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2032,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-10.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-10-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-10-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-10-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-10-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.990Z",
+    "updatedAt": "2026-10-29T06:13:08.525Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda6",
+    "name": "Soft Knit Cardigan",
+    "slug": "women-soft-knit-cardigan",
+    "description": "Soft Knit Cardigan from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2169,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-11.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-11-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-11-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-11-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-11-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.990Z",
+    "updatedAt": "2026-10-29T06:13:08.578Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda7",
+    "name": "Pleated Midi Skirt",
+    "slug": "women-pleated-midi-skirt",
+    "description": "Pleated Midi Skirt from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2306,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-12.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-12-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-12-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-12-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-12-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.991Z",
+    "updatedAt": "2026-10-29T06:13:08.634Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda8",
+    "name": "Classic Blazer",
+    "slug": "women-classic-blazer",
+    "description": "Classic Blazer from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2443,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-13.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-13-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-13-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-13-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-13-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.991Z",
+    "updatedAt": "2026-10-29T06:13:08.689Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5adda9",
+    "name": "Relaxed Cotton Tee",
+    "slug": "women-relaxed-cotton-tee",
+    "description": "Relaxed Cotton Tee from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 880,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-14.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-14-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-14-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-14-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-14-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.992Z",
+    "updatedAt": "2026-10-29T06:13:08.743Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5addaa",
+    "name": "Sleeveless Maxi Dress",
+    "slug": "women-sleeveless-maxi-dress",
+    "description": "Sleeveless Maxi Dress from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1017,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-15.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-15-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-15-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-15-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-15-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.993Z",
+    "updatedAt": "2026-10-29T06:13:08.827Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5addab",
+    "name": "Straight Fit Trousers",
+    "slug": "women-straight-fit-trousers",
+    "description": "Straight Fit Trousers from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1154,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-16.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-16-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-16-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-16-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-16-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.993Z",
+    "updatedAt": "2026-10-29T06:13:08.882Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5addac",
+    "name": "Textured Knit Sweater",
+    "slug": "women-textured-knit-sweater",
+    "description": "Textured Knit Sweater from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1291,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-17.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-17-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-17-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-17-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-17-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.994Z",
+    "updatedAt": "2026-10-29T06:13:08.935Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5addad",
+    "name": "Casual Denim Shorts",
+    "slug": "women-casual-denim-shorts",
+    "description": "Casual Denim Shorts from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1428,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-18.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-18-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-18-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-18-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-18-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.994Z",
+    "updatedAt": "2026-10-29T06:13:08.989Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5addae",
+    "name": "Minimalist Co-ord Set",
+    "slug": "women-minimalist-co-ord-set",
+    "description": "Minimalist Co-ord Set from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1565,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-19.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-19-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-19-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-19-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-19-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.994Z",
+    "updatedAt": "2026-10-29T06:13:09.043Z"
+  },
+  {
+    "_id": "6ae2e35a267d23fa1e5addaf",
+    "name": "Everyday Button-Up Shirt",
+    "slug": "women-everyday-button-up-shirt",
+    "description": "Everyday Button-Up Shirt from the LUXE Women collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1702,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088da",
+    "categoryName": "Women",
+    "gender": "Women",
+    "brand": "LUXE",
+    "images": [
+      "/images/women/women-20.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-20-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-20-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-20-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-WOMEN-20-XL"
+      }
+    ],
+    "tags": [
+      "women",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:34.995Z",
+    "updatedAt": "2026-10-29T06:13:09.099Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb0",
+    "name": "Everyday Cotton T-Shirt",
+    "slug": "kids-everyday-cotton-t-shirt",
+    "description": "Everyday Cotton T-Shirt from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 936,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-02.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-02-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-02-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-02-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-02-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": true,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.872Z",
+    "updatedAt": "2026-10-29T06:13:09.329Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb1",
+    "name": "Kids Casual Shirt",
+    "slug": "kids-kids-casual-shirt",
+    "description": "Kids Casual Shirt from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1073,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-03.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-03-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-03-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-03-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-03-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": true,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.872Z",
+    "updatedAt": "2026-10-29T06:13:09.382Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb2",
+    "name": "Color Block Sweatshirt",
+    "slug": "kids-color-block-sweatshirt",
+    "description": "Color Block Sweatshirt from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1210,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-04.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-04-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-04-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-04-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-04-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": true,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.875Z",
+    "updatedAt": "2026-10-29T06:13:09.436Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb3",
+    "name": "Kids Denim Jeans",
+    "slug": "kids-kids-denim-jeans",
+    "description": "Kids Denim Jeans from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1347,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-05.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-05-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-05-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-05-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-05-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.875Z",
+    "updatedAt": "2026-10-29T06:13:09.490Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb4",
+    "name": "Comfort Joggers",
+    "slug": "kids-comfort-joggers",
+    "description": "Comfort Joggers from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1484,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-06.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-06-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-06-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-06-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-06-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.875Z",
+    "updatedAt": "2026-10-29T06:13:09.544Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb5",
+    "name": "Printed Summer Dress",
+    "slug": "kids-printed-summer-dress",
+    "description": "Printed Summer Dress from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1621,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-07.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-07-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-07-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-07-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-07-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.876Z",
+    "updatedAt": "2026-10-29T06:13:09.601Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb6",
+    "name": "Kids Hoodie",
+    "slug": "kids-kids-hoodie",
+    "description": "Kids Hoodie from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1758,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-08.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-08-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-08-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-08-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-08-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.877Z",
+    "updatedAt": "2026-10-29T06:13:09.655Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb7",
+    "name": "Casual Cotton Shorts",
+    "slug": "kids-casual-cotton-shorts",
+    "description": "Casual Cotton Shorts from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1895,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-09.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-09-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-09-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-09-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-09-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.877Z",
+    "updatedAt": "2026-10-29T06:13:09.710Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb8",
+    "name": "Striped Polo Tee",
+    "slug": "kids-striped-polo-tee",
+    "description": "Striped Polo Tee from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2032,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-10.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-10-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-10-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-10-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-10-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.878Z",
+    "updatedAt": "2026-10-29T06:13:09.764Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addb9",
+    "name": "Lightweight Jacket",
+    "slug": "kids-lightweight-jacket",
+    "description": "Lightweight Jacket from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2169,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-11.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-11-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-11-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-11-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-11-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.878Z",
+    "updatedAt": "2026-10-29T06:13:09.818Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addba",
+    "name": "Kids Leggings",
+    "slug": "kids-kids-leggings",
+    "description": "Kids Leggings from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2306,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-12.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-12-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-12-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-12-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-12-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.878Z",
+    "updatedAt": "2026-10-29T06:13:09.872Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addbb",
+    "name": "Everyday Sweatpants",
+    "slug": "kids-everyday-sweatpants",
+    "description": "Everyday Sweatpants from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2443,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-13.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-13-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-13-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-13-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-13-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.879Z",
+    "updatedAt": "2026-10-29T06:13:09.926Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addbc",
+    "name": "Printed Button-Up Shirt",
+    "slug": "kids-printed-button-up-shirt",
+    "description": "Printed Button-Up Shirt from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 880,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-14.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-14-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-14-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-14-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-14-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.879Z",
+    "updatedAt": "2026-10-29T06:13:09.980Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addbd",
+    "name": "Kids Denim Jacket",
+    "slug": "kids-kids-denim-jacket",
+    "description": "Kids Denim Jacket from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1017,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-15.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-15-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-15-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-15-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-15-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.879Z",
+    "updatedAt": "2026-10-29T06:13:10.035Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addbe",
+    "name": "Soft Knit Sweater",
+    "slug": "kids-soft-knit-sweater",
+    "description": "Soft Knit Sweater from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1154,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-16.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-16-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-16-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-16-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-16-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.879Z",
+    "updatedAt": "2026-10-29T06:13:10.104Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addbf",
+    "name": "Casual Cotton Dress",
+    "slug": "kids-casual-cotton-dress",
+    "description": "Casual Cotton Dress from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1291,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-17.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-17-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-17-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-17-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-17-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.880Z",
+    "updatedAt": "2026-10-29T06:13:10.159Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addc0",
+    "name": "Kids Track Pants",
+    "slug": "kids-kids-track-pants",
+    "description": "Kids Track Pants from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1428,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-18.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-18-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-18-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-18-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-18-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.880Z",
+    "updatedAt": "2026-10-29T06:13:10.212Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addc1",
+    "name": "Essential Tank Top",
+    "slug": "kids-essential-tank-top",
+    "description": "Essential Tank Top from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1565,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-19.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-19-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-19-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-19-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-19-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.881Z",
+    "updatedAt": "2026-10-29T06:13:10.267Z"
+  },
+  {
+    "_id": "6ae2e35b267d23fa1e5addc2",
+    "name": "Weekend Outfit Set",
+    "slug": "kids-weekend-outfit-set",
+    "description": "Weekend Outfit Set from the LUXE Kids collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1702,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088db",
+    "categoryName": "Kids",
+    "gender": "Kids",
+    "brand": "LUXE",
+    "images": [
+      "/images/kids/kids-20.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-20-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-20-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-20-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-KIDS-20-XL"
+      }
+    ],
+    "tags": [
+      "kids",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:35.881Z",
+    "updatedAt": "2026-10-29T06:13:10.321Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addc3",
+    "name": "Minimalist Crossbody Bag",
+    "slug": "accessories-minimalist-crossbody-bag",
+    "description": "Minimalist Crossbody Bag from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 936,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-02.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-02-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-02-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-02-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-02-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": true,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.720Z",
+    "updatedAt": "2026-10-29T06:13:10.541Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addc4",
+    "name": "Classic Baseball Cap",
+    "slug": "accessories-classic-baseball-cap",
+    "description": "Classic Baseball Cap from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1073,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-03.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-03-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-03-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-03-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-03-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": true,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.720Z",
+    "updatedAt": "2026-10-29T06:13:10.595Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addc5",
+    "name": "Everyday Bucket Hat",
+    "slug": "accessories-everyday-bucket-hat",
+    "description": "Everyday Bucket Hat from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1210,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-04.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-04-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-04-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-04-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-04-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": true,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.720Z",
+    "updatedAt": "2026-10-29T06:13:10.649Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addc6",
+    "name": "Compact Wallet",
+    "slug": "accessories-compact-wallet",
+    "description": "Compact Wallet from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1347,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-05.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-05-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-05-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-05-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-05-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.720Z",
+    "updatedAt": "2026-10-29T06:13:10.704Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addc7",
+    "name": "Classic Leather Belt",
+    "slug": "accessories-classic-leather-belt",
+    "description": "Classic Leather Belt from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1484,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-06.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-06-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-06-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-06-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-06-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.720Z",
+    "updatedAt": "2026-10-29T06:13:10.758Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addc8",
+    "name": "Canvas Shoulder Bag",
+    "slug": "accessories-canvas-shoulder-bag",
+    "description": "Canvas Shoulder Bag from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1621,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-07.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-07-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-07-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-07-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-07-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.720Z",
+    "updatedAt": "2026-10-29T06:13:10.813Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addc9",
+    "name": "Minimalist Backpack",
+    "slug": "accessories-minimalist-backpack",
+    "description": "Minimalist Backpack from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1758,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-08.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-08-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-08-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-08-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-08-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.720Z",
+    "updatedAt": "2026-10-29T06:13:10.870Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addca",
+    "name": "Everyday Sunglasses",
+    "slug": "accessories-everyday-sunglasses",
+    "description": "Everyday Sunglasses from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1895,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-09.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-09-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-09-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-09-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-09-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.721Z",
+    "updatedAt": "2026-10-29T06:13:10.925Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addcb",
+    "name": "Knit Winter Beanie",
+    "slug": "accessories-knit-winter-beanie",
+    "description": "Knit Winter Beanie from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2032,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-10.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-10-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-10-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-10-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-10-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.721Z",
+    "updatedAt": "2026-10-29T06:13:10.984Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addcc",
+    "name": "Classic Silk Scarf",
+    "slug": "accessories-classic-silk-scarf",
+    "description": "Classic Silk Scarf from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2169,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-11.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-11-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-11-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-11-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-11-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.721Z",
+    "updatedAt": "2026-10-29T06:13:11.038Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addcd",
+    "name": "Travel Organizer Pouch",
+    "slug": "accessories-travel-organizer-pouch",
+    "description": "Travel Organizer Pouch from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2306,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-12.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-12-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-12-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-12-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-12-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.721Z",
+    "updatedAt": "2026-10-29T06:13:11.100Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addce",
+    "name": "Everyday Card Holder",
+    "slug": "accessories-everyday-card-holder",
+    "description": "Everyday Card Holder from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 2443,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-13.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-13-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-13-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-13-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-13-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.721Z",
+    "updatedAt": "2026-10-29T06:13:11.157Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addcf",
+    "name": "Structured Handbag",
+    "slug": "accessories-structured-handbag",
+    "description": "Structured Handbag from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 880,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-14.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-14-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-14-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-14-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-14-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.721Z",
+    "updatedAt": "2026-10-29T06:13:11.232Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addd0",
+    "name": "Casual Baseball Cap",
+    "slug": "accessories-casual-baseball-cap",
+    "description": "Casual Baseball Cap from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1017,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-15.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-15-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-15-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-15-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-15-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.721Z",
+    "updatedAt": "2026-10-29T06:13:11.314Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addd1",
+    "name": "Textured Tote Bag",
+    "slug": "accessories-textured-tote-bag",
+    "description": "Textured Tote Bag from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1154,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-16.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-16-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-16-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-16-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-16-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.721Z",
+    "updatedAt": "2026-10-29T06:13:11.508Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addd2",
+    "name": "Everyday Waist Bag",
+    "slug": "accessories-everyday-waist-bag",
+    "description": "Everyday Waist Bag from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1291,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-17.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-17-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-17-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-17-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-17-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.721Z",
+    "updatedAt": "2026-10-29T06:13:11.685Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addd3",
+    "name": "Classic Woven Belt",
+    "slug": "accessories-classic-woven-belt",
+    "description": "Classic Woven Belt from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1428,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-18.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-18-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-18-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-18-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-18-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.721Z",
+    "updatedAt": "2026-10-29T06:13:11.739Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addd4",
+    "name": "Compact Crossbody Pouch",
+    "slug": "accessories-compact-crossbody-pouch",
+    "description": "Compact Crossbody Pouch from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1565,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-19.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-19-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-19-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-19-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-19-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.722Z",
+    "updatedAt": "2026-10-29T06:13:11.807Z"
+  },
+  {
+    "_id": "6ae2e35c267d23fa1e5addd5",
+    "name": "Weekend Travel Bag",
+    "slug": "accessories-weekend-travel-bag",
+    "description": "Weekend Travel Bag from the LUXE Accessories collection. Designed for everyday style, comfort, and versatile wear.",
+    "price": 1702,
+    "compareAtPrice": null,
+    "category": "6ae1946343ebeefd679088dc",
+    "categoryName": "Accessories",
+    "gender": "Unisex",
+    "brand": "LUXE",
+    "images": [
+      "/images/accessories/accessories-20.jpg"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-20-S"
+      },
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-20-M"
+      },
+      {
+        "size": "L",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-20-L"
+      },
+      {
+        "size": "XL",
+        "color": "Black",
+        "stock": 10,
+        "sku": "LUXE-ACCESSORIES-20-XL"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "featured": false,
+    "isNew": true,
+    "rating": 0,
+    "reviewCount": 0,
+    "active": true,
+    "__v": 0,
+    "createdAt": "2026-10-29T06:10:36.722Z",
+    "updatedAt": "2026-10-29T06:13:11.861Z"
+  }
+]
