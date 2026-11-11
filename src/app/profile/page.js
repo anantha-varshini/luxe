@@ -1,3 +1,4 @@
+
 "use client";
 
 import Link from "next/link";
@@ -10,6 +11,7 @@ import {
   Save,
   Package,
   Shield,
+  LogOut,
 } from "lucide-react";
 
 const emptyAddress = {
@@ -24,19 +26,14 @@ const emptyAddress = {
 
 export default function ProfilePage() {
   const [user, setUser] = useState(null);
-
   const [name, setName] = useState("");
-
   const [addresses, setAddresses] = useState([]);
-
-  const [showAddressForm, setShowAddressForm] =
-    useState(false);
-
-  const [address, setAddress] =
-    useState(emptyAddress);
+  const [showAddressForm, setShowAddressForm] = useState(false);
+  const [address, setAddress] = useState(emptyAddress);
 
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
+  const [loggingOut, setLoggingOut] = useState(false);
 
   const [message, setMessage] = useState("");
   const [error, setError] = useState("");
@@ -67,11 +64,33 @@ export default function ProfilePage() {
       setName(data.user.name || "");
       setAddresses(data.user.addresses || []);
     } catch (err) {
-      setError(
-        err.message || "Failed to load profile"
-      );
+      setError(err.message || "Failed to load profile");
     } finally {
       setLoading(false);
+    }
+  }
+
+  // LOGOUT FUNCTION
+  async function handleLogout() {
+    try {
+      setLoggingOut(true);
+      setError("");
+
+      const response = await fetch("/api/auth/logout", {
+        method: "POST",
+        credentials: "include",
+      });
+
+      const data = await response.json();
+
+      if (!response.ok || !data.success) {
+        throw new Error(data.message || "Logout failed");
+      }
+
+      window.location.href = "/login";
+    } catch (err) {
+      setError(err.message || "Unable to logout");
+      setLoggingOut(false);
     }
   }
 
@@ -99,9 +118,7 @@ export default function ProfilePage() {
 
     setAddresses((current) => [
       ...current,
-      {
-        ...address,
-      },
+      { ...address },
     ]);
 
     setAddress(emptyAddress);
@@ -147,9 +164,7 @@ export default function ProfilePage() {
 
       setMessage("Profile updated successfully.");
     } catch (err) {
-      setError(
-        err.message || "Failed to save profile"
-      );
+      setError(err.message || "Failed to save profile");
     } finally {
       setSaving(false);
     }
@@ -219,7 +234,9 @@ export default function ProfilePage() {
       )}
 
       <div className="grid gap-8 lg:grid-cols-[1fr_1.2fr]">
-        {/* Account Information */}
+
+        {/* ACCOUNT INFORMATION */}
+
         <section className="rounded-2xl border border-gray-200 bg-white p-6">
           <div className="flex items-center gap-3">
             <div className="flex h-11 w-11 items-center justify-center rounded-full bg-gray-100">
@@ -238,6 +255,7 @@ export default function ProfilePage() {
           </div>
 
           <div className="mt-7 space-y-5">
+
             <div>
               <label className="mb-2 block text-sm font-medium">
                 Full Name
@@ -264,6 +282,8 @@ export default function ProfilePage() {
               />
             </div>
 
+            {/* ACCOUNT ROLE */}
+
             <div className="rounded-xl bg-gray-50 p-4">
               <div className="flex items-center gap-2">
                 <Shield size={17} />
@@ -283,18 +303,18 @@ export default function ProfilePage() {
             <button
               type="button"
               onClick={saveProfile}
-              disabled={saving}
+              disabled={saving || loggingOut}
               className="flex w-full items-center justify-center gap-2 rounded-xl bg-black px-5 py-3 font-semibold text-white transition hover:bg-gray-800 disabled:cursor-not-allowed disabled:bg-gray-400"
             >
               <Save size={17} />
 
-              {saving
-                ? "Saving..."
-                : "Save Profile"}
+              {saving ? "Saving..." : "Save Profile"}
             </button>
           </div>
 
-          <div className="mt-6 border-t pt-6">
+          {/* ORDERS AND LOGOUT */}
+
+          <div className="mt-6 space-y-5 border-t pt-6">
             <Link
               href="/orders"
               className="flex items-center gap-2 text-sm font-medium hover:underline"
@@ -302,10 +322,22 @@ export default function ProfilePage() {
               <Package size={17} />
               View My Orders
             </Link>
+
+            <button
+              type="button"
+              onClick={handleLogout}
+              disabled={loggingOut || saving}
+              className="flex w-full items-center justify-center gap-2 rounded-xl border border-red-200 px-5 py-3 font-semibold text-red-600 transition hover:bg-red-50 disabled:cursor-not-allowed disabled:opacity-50"
+            >
+              <LogOut size={18} />
+
+              {loggingOut ? "Logging out..." : "Logout"}
+            </button>
           </div>
         </section>
 
-        {/* Addresses */}
+        {/* SAVED ADDRESSES */}
+
         <section className="rounded-2xl border border-gray-200 bg-white p-6">
           <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
             <div className="flex items-center gap-3">
@@ -341,6 +373,8 @@ export default function ProfilePage() {
               </button>
             )}
           </div>
+
+          {/* ADD ADDRESS FORM */}
 
           {showAddressForm && (
             <div className="mt-6 rounded-2xl bg-gray-50 p-5">
@@ -429,6 +463,8 @@ export default function ProfilePage() {
             </div>
           )}
 
+          {/* ADDRESS LIST */}
+
           <div className="mt-6 space-y-4">
             {!addresses.length && !showAddressForm ? (
               <div className="rounded-2xl border border-dashed border-gray-300 p-8 text-center">
@@ -460,9 +496,7 @@ export default function ProfilePage() {
 
                     <button
                       type="button"
-                      onClick={() =>
-                        removeAddress(index)
-                      }
+                      onClick={() => removeAddress(index)}
                       className="rounded-lg p-2 text-gray-400 hover:bg-red-50 hover:text-red-600"
                       aria-label="Delete address"
                     >
@@ -490,14 +524,12 @@ export default function ProfilePage() {
             <button
               type="button"
               onClick={saveProfile}
-              disabled={saving}
+              disabled={saving || loggingOut}
               className="mt-6 flex w-full items-center justify-center gap-2 rounded-xl border border-black px-5 py-3 font-semibold transition hover:bg-black hover:text-white disabled:opacity-50"
             >
               <Save size={17} />
 
-              {saving
-                ? "Saving..."
-                : "Save Addresses"}
+              {saving ? "Saving..." : "Save Addresses"}
             </button>
           )}
         </section>
