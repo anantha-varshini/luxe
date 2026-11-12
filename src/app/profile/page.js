@@ -300,6 +300,16 @@ export default function ProfilePage() {
               </p>
             </div>
 
+{user?.role === "admin" && (
+  <Link
+    href="/admin"
+    className="mt-6 inline-flex items-center justify-center rounded-xl bg-black px-6 py-3 font-semibold text-white transition hover:bg-gray-800"
+  >
+    Admin Dashboard →
+  </Link>
+)}
+
+
             <button
               type="button"
               onClick={saveProfile}
